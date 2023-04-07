@@ -1,10 +1,5 @@
-A terminal on a Chromebook is a command-line interface that allows users
- to access and interact with the operating system and perform various 
- tasks such as installing software, managing files, and executing scripts.
-  It is a powerful tool that enables advanced users to perform more
-   advanced tasks than what can be achieved through the Chromebook's 
-   graphical user interface. Users can access the terminal by opening 
-   the Chrome OS Crosh shell or by installing a Linux distribution 
-   such as Ubuntu or Debian on their device. The terminal on a Chromebook 
-   can be useful for developers, system administrators, and power users
-    who need to execute complex commands and automate tasks efficiently.
+A terminal on a Chromebook is a command-line interface that allows users to access and interact with the operating system and perform various tasks such as installing software, managing files, and executing scripts. It is a powerful tool that enables advanced users to perform more advanced tasks than what can be achieved through the Chromebook's graphical user interface. Users can access the terminal by opening the Chrome OS Crosh shell or by installing a Linux distribution such as Ubuntu or Debian on their device. The terminal on a Chromebook can be useful for developers, system administrators, and power users who need to execute complex commands and automate tasks efficiently.
+
+Nathan Aguilar 
+
+04/06/2023
